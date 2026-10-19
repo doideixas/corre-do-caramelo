@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.png binary
+docs/game.*.js -whitespace linguist-generated=true
+docs/game.*.css linguist-generated=true
